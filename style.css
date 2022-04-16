@@ -1,0 +1,43 @@
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+    width: 100%;
+    font-size:xx-large;
+    margin-top: 0%;
+}
+.button {
+    width: 300px;
+    height: 35px;
+    border-radius: 30px;
+    border-color: white;
+    background: white;
+    margin-top: 20px;
+    font-size: x-large;
+    color:violet;
+    font-weight: bold;
+}
+
+a 
+{
+ 
+    width: 300px;
+    height: 35px;
+    border-radius: 30px;
+    border-color: white;
+    background: white;
+    margin-top: 20px;
+    font-size: x-large;
+    color:violet;
+    font-weight: bold;
+
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
